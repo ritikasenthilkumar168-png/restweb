@@ -515,7 +515,7 @@ menu.html
 
 
 ## OUTPUT:
-![alt text](homepageee.png.png)
+![alt text](homepage.png.png)
 ![alt text](menu.png.png)
 ![alt text](contact.png.png)
 ![alt text](admin.png.png)
